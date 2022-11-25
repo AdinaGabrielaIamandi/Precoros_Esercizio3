@@ -1,0 +1,35 @@
+    .image-container1 {
+        background-image: url(https://www.romaniaturismo.it/wp-content/uploads/sites/74/cluj-napoca.jpg);
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+    
+    .image-container2 {
+        background-image: url(https://socatour.ro//www/uploads/531/ZNAL8740_1280x855.jpg);
+        background-repeat: no-repeat;
+        height: 550px;
+    }
+    
+    .image-container3 {
+        background-image: url(https://st2.depositphotos.com/3651191/50799/i/600/depositphotos_507994742-stock-photo-gorgeous-summer-view-of-fortified.jpg);
+        background-repeat: no-repeat;
+        height: 400px;
+    }
+    
+    .image-container4 {
+        background-image: url(https://img.freepik.com/premium-photo/viscri-romania-blue-old-painted-traditional-house-from-village-transylvania-german-saxon-community-unesco-viscri-fortified-church_527096-4470.jpg?w=360);
+        background-repeat: no-repeat;
+        height: 500px;
+    }
+    
+    .image-container5 {
+        background-image: url(https://www.romania.it/wp-content/uploads/2018/08/brasov_romania.jpg);
+        background-repeat: no-repeat;
+        height: 500px;
+    }
+    
+    footer {
+        background-color: black;
+        padding: 16px;
+        text-align: center;
+    }
